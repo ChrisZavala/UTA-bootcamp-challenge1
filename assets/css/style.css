@@ -58,7 +58,9 @@ p {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
+    /* might take this out just wanted to see what it does to the page. Inserting object-fit: cover */
+    /* object-fit: cover; */
+    background-image: url("../images/digital-marketing-meeting.jpg"); 
     background-size: cover;
     background-position: center;
 }
@@ -81,7 +83,6 @@ p {
 
 .benefits {
     margin-right: 20px;
-    
     padding: 20px;
     clear: both;
     float: right;
@@ -92,21 +93,35 @@ p {
 }
 
 .benefit-lead {
+    /* changed the top margin, right margin, left margin bottom alone and changed margin right */
+    margin-top: 4px;
+    margin-right: 65px;
     margin-bottom: 32px;
+    margin-left: 65px;
+    
+    
     color: #ffffff;
     /* made a font size change of 20px */
     font-size: 20px;
 }
 
 .benefit-brand {
+    /* changed the top margin, right margin, left margin bottom alone and changed margin right */
+    margin-top: 4px;
+    margin-right: 65px;
     margin-bottom: 32px;
+    margin-left: 65px;
     color: #ffffff;
     /* made a font size change of 20px */
     font-size: 20px;
 }
 
 .benefit-cost {
+    /* changed the top margin, right margin, left margin bottom alone and changed margin right */
+    margin-top: 4px;
+    margin-right: 65px;
     margin-bottom: 32px;
+    margin-left: 65px;
     color: #ffffff;
     /* made a font size change of 20px */
     font-size: 20px;
