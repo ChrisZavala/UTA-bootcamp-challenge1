@@ -40,7 +40,7 @@ Navigate to <your-github-username.github.io/your-repository-name> and you will f
 
 List your collaborators:
 Christopher Zavala: https://github.com/ChrisZavala
-Josh Goeke: Did have Josh Goeke website, will include in future collaborations. 
+Josh Goeke: When I have Josh Goeke website for GitHub, I will include in future collaborations. 
 Karen Peazzoni: https://github.com/kpeazzoni
 
 
